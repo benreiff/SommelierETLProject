@@ -3,7 +3,7 @@ Sommelier Data Obtained from Kaggle </br>
 Ben Reiff, Chelsea Snedden, Morgan Bricker
 ---
 # Extract
-We began by downloading a CSV from Kaggle open source data on Wine Reviews and located a CSV that scraped data from this website, Napa Valley Wine Locations and Info.
+We began by downloading a CSV from Kaggle open source data on Wine Reviews and located a CSV that scraped data from this website, Napa Valley Wine Locations and Info.</br>
 Why we chose this topic:
 1. We were interested in wine tourism in California for planning future trips.
 2. We found this dataset to be unique in comparison to previous projects.
