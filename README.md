@@ -1,5 +1,5 @@
 # Sommelier ETL Project for Butler Data Analytics
-Sommelier Data Obtained from Kaggle </br>
+
 Ben Reiff, Chelsea Snedden, Morgan Bricker
 ---
 # Extract
