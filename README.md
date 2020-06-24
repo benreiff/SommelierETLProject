@@ -31,5 +31,5 @@ We created a database named "Sommelier_DB" including two collections (one for ea
 ---
 # So, Why?
 The purpose of this exercise was to extract data, transform it to a usable format and load it into MongoDB.
-The 'new' aspect of this data can be found when you query one of the Napa Valley Wineries; one collection provides us with winery, wine varietals, and wine info, whereas, another provides us with the winery address, location, and phone number should we wish to visit that winery on a vacation trip to Napa Valley.
+The 'new' aspect of this data can be found when you query one of the Napa Valley Wineries; one collection provides us with winery, wine varietals, and wine info, while the other provides us with the winery address, location, and phone number should we wish to visit that winery on a vacation trip to Napa Valley.
 
